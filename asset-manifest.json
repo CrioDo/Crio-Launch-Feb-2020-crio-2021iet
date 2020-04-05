@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Crio-Launch-Feb-2020-crio-2021iet/static/css/main.5db1380d.chunk.css",
-    "main.js": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/main.471107fd.chunk.js",
-    "main.js.map": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/main.471107fd.chunk.js.map",
+    "main.js": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/main.01439055.chunk.js",
+    "main.js.map": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/main.01439055.chunk.js.map",
     "runtime-main.js": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/runtime-main.b0817067.js",
     "runtime-main.js.map": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/runtime-main.b0817067.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/Crio-Launch-Feb-2020-crio-2021iet/static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.35d5552c.chunk.js": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/2.35d5552c.chunk.js",
-    "static/js/2.35d5552c.chunk.js.map": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/2.35d5552c.chunk.js.map",
+    "static/js/2.6d351d64.chunk.js": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/2.6d351d64.chunk.js",
+    "static/js/2.6d351d64.chunk.js.map": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/2.6d351d64.chunk.js.map",
     "index.html": "/Crio-Launch-Feb-2020-crio-2021iet/index.html",
-    "precache-manifest.54f689c29895c28d395e55f5bd2fa261.js": "/Crio-Launch-Feb-2020-crio-2021iet/precache-manifest.54f689c29895c28d395e55f5bd2fa261.js",
+    "precache-manifest.39eeb836c412312e586f38ea947528b3.js": "/Crio-Launch-Feb-2020-crio-2021iet/precache-manifest.39eeb836c412312e586f38ea947528b3.js",
     "service-worker.js": "/Crio-Launch-Feb-2020-crio-2021iet/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/Crio-Launch-Feb-2020-crio-2021iet/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.5db1380d.chunk.css.map": "/Crio-Launch-Feb-2020-crio-2021iet/static/css/main.5db1380d.chunk.css.map",
-    "static/js/2.35d5552c.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/2.35d5552c.chunk.js.LICENSE.txt",
+    "static/js/2.6d351d64.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-crio-2021iet/static/js/2.6d351d64.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/Crio-Launch-Feb-2020-crio-2021iet/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/Crio-Launch-Feb-2020-crio-2021iet/static/media/crio-logo.63be71d0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b0817067.js",
     "static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.35d5552c.chunk.js",
+    "static/js/2.6d351d64.chunk.js",
     "static/css/main.5db1380d.chunk.css",
-    "static/js/main.471107fd.chunk.js"
+    "static/js/main.01439055.chunk.js"
   ]
 }
